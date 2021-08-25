@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![bbb avatar](https://ca.slack-edge.com/T2E0PUF5W-UBK1NNNJJ-7565da9af125-72)
