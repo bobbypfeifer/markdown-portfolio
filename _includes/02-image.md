@@ -1,1 +1,1 @@
-![bbb avatar](https://ca.slack-edge.com/T2E0PUF5W-UBK1NNNJJ-7565da9af125-72)
+![bbb avatar](https://ca.slack-edge.com/T2E0PUF5W-UBK1NNNJJ-7565da9af125-512)
